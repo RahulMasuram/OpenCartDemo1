@@ -1,0 +1,21 @@
+2024-09-04 22:43:56 INFO  Utils:112 - [TestNG] Running:
+  E:\PrePlacedPractice\OpencartDemo\master.xml
+
+2024-09-04 22:44:28 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-09-04 22:44:28 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-09-04 22:44:29 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-09-04 22:44:29 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-09-04 22:44:32 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-09-04 22:44:32 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-09-04 22:44:32 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-09-04 22:44:43 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-09-04 22:44:46 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2024-09-19 00:05:30 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-09-19 00:05:31 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-09-19 00:05:32 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-09-19 00:05:32 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-09-19 00:05:33 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-09-19 00:05:33 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-09-19 00:05:33 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-09-19 00:05:47 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-09-19 00:05:49 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
