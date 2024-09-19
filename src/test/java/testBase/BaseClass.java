@@ -95,9 +95,9 @@ public Properties p;
 			}
 		}
 		
-			
+
 		driver.manage().deleteAllCookies();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		
 		driver.get(p.getProperty("appURL2")); // reading url from properties file.
 		driver.manage().window().maximize();

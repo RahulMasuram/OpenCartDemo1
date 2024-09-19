@@ -12,7 +12,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <sonar.token>sqp_9ff3425c5a2d4918ac47996d91718bd8a563da3e</sonar.token>
+        <sonar.token></sonar.token>
         <sonar.projectKey>test-opencart-application</sonar.projectKey>
         <sonar.projectName>test-opencart-application</sonar.projectName>
         <sonar.host.url>http://localhost:9000</sonar.host.url>
@@ -23,7 +23,7 @@
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-            <version>4.23.1</version>
+            <version>4.24.0</version>
         </dependency>
 
         <dependency>
